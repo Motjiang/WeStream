@@ -74,7 +74,7 @@ const HeroSection = () => {
           </p>
           <motion.div
             variants={fadeInUp}
-            className="flex flex-wrap justify-center gap-8"
+            className="flex flex-wrap justify-center gap-10"
           >
             {BRAND_LOGOS.map((logo, index) => (
               <img key={index} src={logo.src} alt={logo.alt} className="h-8" />

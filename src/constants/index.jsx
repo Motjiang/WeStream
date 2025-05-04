@@ -154,7 +154,7 @@ export const PLANS_CONTENT = {
   plans: [
     {
       name: "Basic",
-      price: "$9.99/month",
+      price: "R 170/month",
       description:
         "Perfect for beginners just starting their streaming journey.",
       features: [
@@ -166,7 +166,7 @@ export const PLANS_CONTENT = {
     },
     {
       name: "Pro",
-      price: "$19.99/month",
+      price: "R 355/month",
       description:
         "For streamers who want more advanced tools to grow their audience.",
       features: [
@@ -180,7 +180,7 @@ export const PLANS_CONTENT = {
     },
     {
       name: "Elite",
-      price: "$49.99/month",
+      price: "R 1110/month",
       description:
         "For professional streamers who need cutting-edge tools and insights.",
       features: [
