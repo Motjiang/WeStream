@@ -15,7 +15,7 @@ const Navbar = () => {
         <img src={logo} alt="logo" width={120} height={24} />
 
         <div className="hidden md:flex space-x-6">
-          <a href="#works" className="hover:text-neutral-200">
+          <a href="#howitworks" className="hover:text-neutral-200">
             How it works
           </a>
           <a href="#pricing" className="hover:text-neutral-200">
